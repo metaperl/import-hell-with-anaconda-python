@@ -3,11 +3,7 @@ Simulate an import problem I had
 
 ## Requirements
 
-I had this problem with Anaconda Python 3.7.3
-
-## Installation
-
-    shell> pip install -r requirements.txt
+I had this problem with Anaconda Python 3.7.3 and decided to figure it out.
 
 ## Usage
 
